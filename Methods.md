@@ -7,7 +7,7 @@ A decision tool for choosing which research approach to emphasize at any given m
 
 ## The Four Lenses
 
-#### 1. Discovery
+### 1. Discovery
 
 *"Are we solving the right problem?"*
 
@@ -18,9 +18,9 @@ Grounds the team in the user's actual work, decisions, and context before design
 - **Delivers:** Problem statement (qualitative, generative)
 - **Addresses risk:** Value, viability
 - **Rohrer dimensions:** Primarily behavioral and qualitative, natural or near-natural context of use
-- **Templates:** [Discovery](Discovery/Discovery.md) (plan) · [Discovery Results](Discovery/Discovery%20Results.md) (results)
+- **Templates:** [Discovery](Discovery/Discovery.md) (plan) · [Discovery Results](Discovery/Discovery%20Results.md)
 
-#### 2. User Testing
+### 2. User Testing
 
 *"Can people actually use this?"*
 
@@ -31,9 +31,9 @@ Observes real people interacting with a design or prototype to identify usabilit
 - **Delivers:** Usability fixes (behavioral, evaluative)
 - **Addresses risk:** Usability, value
 - **Rohrer dimensions:** Behavioral, qualitative, scripted or limited context of use
-- **Templates:** [User Test](User%20Test/User%20Test.md) (plan) · [User Test Results](User%20Test/User%20Test%20Results.md) (results)
+- **Templates:** [User Test](User%20Test/User%20Test.md) (plan) · [User Test Results](User%20Test/User%20Test%20Results.md)
 
-#### 3. Feedback
+### 3. Feedback
 
 *"What do users say they think and want?"*
 
@@ -44,9 +44,9 @@ Collects self-reported attitudes and reactions at any stage of product work—po
 - **Delivers:** Sentiment signal (attitudinal, continuous)
 - **Addresses risk:** Value, viability
 - **Rohrer dimensions:** Attitudinal, mixed qualitative and quantitative, decontextualized
-- **Templates:** [Feedback](Feedback/Feedback.md) (plan) · [Feedback Results](Feedback/Feedback%20Results.md) (results)
+- **Templates:** [Feedback](Feedback/Feedback.md) (plan) · [Feedback Results](Feedback/Feedback%20Results.md)
 
-#### 4. Experimentation
+### 4. Experimentation
 
 *"Which option performs better?"*
 
@@ -58,14 +58,14 @@ Measures which design option performs better with live users, using controlled c
 - **Addresses risk:** Value, feasibility
 - **Rohrer dimensions:** Behavioral, quantitative, natural context of use
 - **Rigor framework:** Drawn from Ron Kohavi's *Trustworthy Online Controlled Experiments* (2020), since NN/g's guidance on experimentation focuses on the role of A/B testing alongside UX research rather than the statistical methodology (hypothesis format, primary vs. guardrail metrics, sample-size calculation, decision rule)
-- **Templates:** [Experiment](Experiment/Experiment.md) (plan) · [Experiment Results](Experiment/Experiment%20Results.md) (results)
+- **Templates:** [Experiment](Experiment/Experiment.md) (plan) · [Experiment Results](Experiment/Experiment%20Results.md)
 
 
 ---
 
 ## Key Distinctions
 
-#### Discovery vs. Feedback
+### Discovery vs. Feedback
 
 Both can use interviews as a method, but the target signal differs. [Attitudinal vs. Behavioral Research in UX](https://www.nngroup.com/articles/attitudinal-behavioral/) (NN/g) defines the split as self-report versus observation.
 
@@ -74,7 +74,7 @@ Both can use interviews as a method, but the target signal differs. [Attitudinal
 
 Feedback interviews still use behavioral anchoring (critical-incident technique, "walk me through the last time you used X") to reduce recall bias and ground self-report. The behavioral anchor is technique; the target is attitudes, reactions, and stated desires. Don't let the "Feedback = self-report" framing push concrete-event questions into Discovery where they don't belong.
 
-#### User Testing vs. Experimentation
+### User Testing vs. Experimentation
 
 Both observe behavior, but differ in method and scale.
 

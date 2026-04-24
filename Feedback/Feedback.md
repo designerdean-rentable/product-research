@@ -1,36 +1,36 @@
-> [!info] Scope
+> [!NOTE] Scope
 > This template is for qualitative feedback interviews—one instrument within the Feedback lens (alongside surveys, NPS/CSAT, beta feedback, reviews, and support logs). Pair with behavioral signal from prior Discovery work or usage analytics so self-reports can be cross-checked against actual behavior. See [Methods](Methods.md).
 
 ## Research Questions
 
 *The overarching objectives the study seeks to answer. Write these first—they shape the interview questions.*
 
-1. 
-2. 
+1. [Research question]
+2. [Research question]
 
 ## Interview Participants
 
 *Preference is to meet with a single customer, not multiple people from the same account. Group by persona subheads when a study spans multiple personas; target 5–6 per persona per NN/g guidance.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. [Participant name]
+2. [Participant name]
+3. [Participant name]
+4. [Participant name]
+5. [Participant name]
+6. [Participant name]
 
 ## Attendees & Roles
 
 *Who's present from the research team and what each person is responsible for during the session.*
 
-- Facilitator: 
-- Support: 
+- **Facilitator:** [Name]
+- **Support:** [Name]
 
 ## Pre-Interview Tasks
 
 *Preparation before the session—recruiting, scheduling, confirmation, materials, tool setup.*
 
-- 
+- [Prep task]
 
 
 ---
@@ -71,4 +71,4 @@
 
 *Research team work after the session ends—internal debrief, consolidate notes, link the recording, and begin synthesis.*
 
-- 
+- [Synthesis task]

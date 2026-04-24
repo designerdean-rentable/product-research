@@ -2,33 +2,33 @@
 
 *The overarching objectives the study seeks to answer. Write these first—they shape the interview questions.*
 
-1. 
-2. 
+1. [Research question]
+2. [Research question]
 
 ## Interview Participants
 
 *Who's being interviewed. Group by persona subheads when a study spans multiple personas; target 5–6 per persona per NN/g guidance.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. [Participant name]
+2. [Participant name]
+3. [Participant name]
+4. [Participant name]
+5. [Participant name]
+6. [Participant name]
 
 ## Attendees & Roles
 
 *Who's present from the research team and what each person is responsible for during the session.*
 
-- Facilitator: 
-- Support: 
+- **Facilitator:** [Name]
+- **Support:** [Name]
 
 ## Pre-Interview Tasks
 
 *Preparation before the session—recruiting, scheduling, confirmation, materials, tool setup.*
 
-- 
-- 
+- [Prep task]
+- [Prep task]
 
 
 ---
@@ -47,11 +47,11 @@
 
 *Questions progress from broad to narrow per NN/g's funnel technique. Probes are listed for reference—skip any the participant has already covered.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. [Question]
+2. [Question]
+3. [Question]
+4. [Question]
+5. [Question]
 6. Is there anything else you'd like to share about this topic?
 
 
@@ -61,5 +61,5 @@
 
 *Research team work after the session ends—internal debrief, consolidate notes, link the recording, and begin synthesis.*
 
-- 
-- 
+- [Synthesis task]
+- [Synthesis task]

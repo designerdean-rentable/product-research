@@ -17,9 +17,9 @@
 | ------- | ------------ | ---------------- | ------------------- | ------- |
 |         |              |                  |                     |         |
 
-> [!important] Key Takeaways
-> - 
-> - 
+> [!IMPORTANT] Key Takeaways
+> - [Takeaway]
+> - [Takeaway]
 
 
 ---
@@ -28,13 +28,13 @@
 
 *Guardrails (must not regress) and exploratory metrics (watched but not decisive). Flag any regressions or unexpected movements.*
 
-#### Guardrails
+### Guardrails
 
 | Metric | Control | Treatment | Delta | Flagged? |
 | ------ | ------- | --------- | ----- | -------- |
 |        |         |           |       |          |
 
-#### Exploratory
+### Exploratory
 
 | Metric | Control | Treatment | Delta |
 | ------ | ------- | --------- | ----- |
@@ -47,8 +47,8 @@
 
 *Qualitative signal that explains or contextualizes the quantitative results—session replays, support tickets, follow-up interviews, or patterns worth flagging. Omit this section if nothing surfaced.*
 
-- 
-- 
+- [Observation]
+- [Observation]
 
 
 ---
@@ -57,8 +57,8 @@
 
 *Winner / loser / inconclusive, tied back to the Decision Rule from the plan. State the rationale, not just the outcome.*
 
-- 
-- 
+- [Decision point]
+- [Decision point]
 
 
 ---
@@ -67,5 +67,5 @@
 
 *What to do with the decision—ship, iterate, abandon. Capture learnings that carry forward beyond this experiment's immediate outcome.*
 
-- 
-- 
+- [Next step]
+- [Next step]

@@ -17,30 +17,30 @@
 
 *Attitudinal patterns across participants. Group observations under each theme. Add a Key Takeaways callout per theme when the pattern is clear.*
 
-#### Theme Name
+### Theme Name
 
-- Participant 1:
-	- 
-	- 
-- Participant 2:
-	- 
-	- 
-- Participant 3:
-	- 
-	- 
-- Participant 4:
-	- 
-	- 
-- Participant 5:
-	- 
-	- 
-- Participant 6:
-	- 
-	- 
+- **Participant 1:** 
+	- [Observation]
+	- [Observation]
+- **Participant 2:** 
+	- [Observation]
+	- [Observation]
+- **Participant 3:** 
+	- [Observation]
+	- [Observation]
+- **Participant 4:** 
+	- [Observation]
+	- [Observation]
+- **Participant 5:** 
+	- [Observation]
+	- [Observation]
+- **Participant 6:** 
+	- [Observation]
+	- [Observation]
 
-> [!important] Key Takeaways
-> - 
-> - 
+> [!IMPORTANT] Key Takeaways
+> - [Takeaway]
+> - [Takeaway]
 
 
 ---
@@ -49,10 +49,10 @@
 
 *Verbatim customer language worth preserving for advocacy and reuse—beyond what's already cited in Themes. Group by theme.*
 
-#### Theme Name
+### Theme Name
 
-- 
-- 
+- [Quote]
+- [Quote]
 
 
 ---
@@ -61,8 +61,8 @@
 
 *What participants explicitly asked for. Distinct from Themes (inferred patterns) and Recommendations (synthesized next steps).*
 
-- 
-- 
+- [Stated need]
+- [Stated need]
 
 
 ---
