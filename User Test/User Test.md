@@ -5,6 +5,13 @@
 1. [Research question]
 2. [Research question]
 
+## Complementary Research
+
+*Other research informing or running alongside this study—existing data (analytics showing drop-off, support tickets mentioning friction, prior usability findings, telemetry) or a paired effort. Use to ground tasks in real scenarios and focus on known problem areas.*
+
+- [Source or paired effort]: [Key finding or scope]
+- [Source or paired effort]: [Key finding or scope]
+
 ## Test Participants
 
 *Who's being tested. Group by persona subheads when a study spans multiple personas; target 5–6 per persona per NN/g guidance.*

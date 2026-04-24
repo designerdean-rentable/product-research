@@ -5,6 +5,13 @@
 1. [Research question]
 2. [Research question]
 
+## Complementary Research
+
+*Other research informing or running alongside this study—existing data (prior field studies, personas, competitor analysis, support data, telemetry, analytics) or a paired effort. Use to shape research questions so this study probes beyond what's already known.*
+
+- [Source or paired effort]: [Key finding or scope]
+- [Source or paired effort]: [Key finding or scope]
+
 ## Interview Participants
 
 *Who's being interviewed. Group by persona subheads when a study spans multiple personas; target 5–6 per persona per NN/g guidance.*

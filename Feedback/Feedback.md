@@ -1,13 +1,16 @@
-> [!NOTE]
-> **Scope**
-> This template is for qualitative feedback interviews—one instrument within the Feedback lens (alongside surveys, NPS/CSAT, beta feedback, reviews, and support logs). Pair with behavioral signal from prior Discovery work or usage analytics so self-reports can be cross-checked against actual behavior. See [Methods](../Methods.md).
-
 ## Research Questions
 
 *The overarching objectives the study seeks to answer. Write these first—they shape the interview questions.*
 
 1. [Research question]
 2. [Research question]
+
+## Complementary Research
+
+*Other research informing or running alongside this study—existing data (NPS/CSAT, support logs, surveys, analytics, prior Discovery) or a paired effort (concurrent survey, A/B test, quantitative analysis). Use to shape interview questions so this study probes beyond what's already covered elsewhere.*
+
+- [Source or paired effort]: [Key finding or scope]
+- [Source or paired effort]: [Key finding or scope]
 
 ## Interview Participants
 
