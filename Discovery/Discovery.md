@@ -65,7 +65,7 @@
 
 ## Post-Interview Tasks
 
-*Research team work after the session ends—internal debrief, consolidate notes, link the recording, and begin synthesis.*
+*Research team work after the session ends—internal debrief, review the transcript and recording, and begin synthesis.*
 
 - [Synthesis task]
 - [Synthesis task]
