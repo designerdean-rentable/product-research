@@ -14,7 +14,7 @@
 
 ## Test Participants
 
-*Who's being tested. Group by persona subheads when a study spans multiple personas; target 5–6 per persona per NN/g guidance.*
+*Who's being tested. Group by persona subheads when a study spans multiple personas. Default: 5 per persona per NN/g's 5-user rule (catches ~85% of usability problems). Quantitative benchmarking (success rate, time-on-task, SUS) needs 20–40 total—use only when you need metrics over time or across designs.*
 
 1. [Participant name]
 2. [Participant name]

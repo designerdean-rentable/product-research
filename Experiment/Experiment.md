@@ -40,7 +40,7 @@
 
 ## Sample Size & Duration
 
-*Expected sample size per variant and estimated duration based on statistical power. Note the minimum detectable effect—the smallest impact the experiment can reliably detect.*
+*Calculated from baseline metric value, minimum detectable effect, and significance threshold (typically 95%). Minimum duration 1–2 weeks regardless of traffic, to absorb day-of-week variance (per NN/g).*
 
 - [Estimate]
 
