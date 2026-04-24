@@ -14,7 +14,7 @@
 
 ## Interview Participants
 
-*Preference is to meet with a single customer, not multiple people from the same account. Group by persona subheads when a study spans multiple personas. Start at 5–6 per persona per NN/g; expand to saturation.*
+*Preference is to meet with a single customer, not multiple people from the same account. Group by persona subheads when a study spans multiple personas. At least 5 per persona per NN/g; expand to saturation.*
 
 1. [Participant name]
 2. [Participant name]

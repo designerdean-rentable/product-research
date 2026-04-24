@@ -18,7 +18,7 @@ Grounds the team in the user's actual work, decisions, and context before design
 - **Delivers:** Problem statement (qualitative, generative)
 - **Addresses risk:** Value, viability
 - **Rohrer dimensions:** Primarily behavioral and qualitative, natural or near-natural context of use
-- **Typical participants:** 5–6 per persona per NN/g; continue until saturation (often 8–12 for a focused topic).
+- **Typical participants:** At least 5 per persona per NN/g; continue until saturation.
 - **Typical duration:** 2–4 weeks end-to-end.
 - **Templates:** [Discovery](Discovery/Discovery.md) (plan) · [Discovery Results](Discovery/Discovery%20Results.md)
 
@@ -48,7 +48,7 @@ Collects self-reported attitudes and reactions at any stage of product work—po
 - **Delivers:** Sentiment signal (attitudinal, continuous)
 - **Addresses risk:** Value, viability
 - **Rohrer dimensions:** Attitudinal, mixed qualitative and quantitative, decontextualized
-- **Typical participants:** 5–6 per persona for qualitative interviews; continue until saturation (often 8–12). ~40 minimum for surveys.
+- **Typical participants:** At least 5 per persona for qualitative interviews; continue until saturation. ~40 minimum for surveys.
 - **Typical duration:** 1–3 weeks depending on instrument.
 - **Templates:** [Feedback](Feedback/Feedback.md) (plan) · [Feedback Results](Feedback/Feedback%20Results.md)
 
