@@ -2,11 +2,11 @@
 
 *Who was tested. One column per participant.*
 
-|                   | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | Participant 6 |
-| ----------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| **Name**          |               |               |               |               |               |               |
-| **Persona**       |               |               |               |               |               |               |
-| **Segment**       |               |               |               |               |               |               |
+|                   | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 |
+| ----------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Name**          |               |               |               |               |               |
+| **Persona**       |               |               |               |               |               |
+| **Segment**       |               |               |               |               |               |
 
 
 ---
@@ -15,10 +15,10 @@
 
 *Task-level performance data. Capture completion, errors, time-on-task, or any numeric signal relevant to the research questions.*
 
-| Task | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | Participant 6 |
-| ---- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Task] |               |               |               |               |               |               |
-| [Task] |               |               |               |               |               |               |
+| Task | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 |
+| ---- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Task] |               |               |               |               |               |
+| [Task] |               |               |               |               |               |
 
 > [!IMPORTANT]
 > **Key Takeaways**
@@ -47,9 +47,6 @@
 	- [Observation]
 	- [Observation]
 - **Participant 5:** 
-	- [Observation]
-	- [Observation]
-- **Participant 6:** 
 	- [Observation]
 	- [Observation]
 

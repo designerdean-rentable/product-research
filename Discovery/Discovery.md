@@ -21,7 +21,6 @@
 3. [Participant name]
 4. [Participant name]
 5. [Participant name]
-6. [Participant name]
 
 ## Attendees & Roles
 
@@ -52,7 +51,7 @@
 
 ## Questions
 
-*Questions progress from broad to narrow per NN/g's funnel technique. Probes are listed for reference—skip any the participant has already covered.*
+*Questions progress from broad to narrow per NN/g's funnel technique. Nest probes as sub-bullets to deepen key threads; probes are prompts for the facilitator, not a strict script.*
 
 1. [Question]
 2. [Question]

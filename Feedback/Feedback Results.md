@@ -2,12 +2,12 @@
 
 *Who was interviewed. One column per participant.*
 
-|                   | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | Participant 6 |
-| ----------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| **Name**          |               |               |               |               |               |               |
-| **Role**          |               |               |               |               |               |               |
-| **Persona**       |               |               |               |               |               |               |
-| **Segment**       |               |               |               |               |               |               |
+|                   | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 |
+| ----------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Name**          |               |               |               |               |               |
+| **Role**          |               |               |               |               |               |
+| **Persona**       |               |               |               |               |               |
+| **Segment**       |               |               |               |               |               |
 
 
 ---
@@ -31,9 +31,6 @@
 	- [Observation]
 	- [Observation]
 - **Participant 5:** 
-	- [Observation]
-	- [Observation]
-- **Participant 6:** 
 	- [Observation]
 	- [Observation]
 

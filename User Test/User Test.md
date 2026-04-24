@@ -14,14 +14,13 @@
 
 ## Test Participants
 
-*Who's being tested. Group by persona subheads when a study spans multiple personas. Default: 5 per persona per NN/g's 5-user rule (catches ~85% of usability problems). Quantitative benchmarking (success rate, time-on-task, SUS) needs 20–40 total—use only when you need metrics over time or across designs.*
+*Who's being tested. Group by persona subheads when a study spans multiple personas. Default: 5 per persona per [NN/g's 5-user rule](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) (catches ~85% of usability problems). Quantitative benchmarking (success rate, time-on-task, SUS) needs 20–40 total—use only when you need metrics over time or across designs.*
 
 1. [Participant name]
 2. [Participant name]
 3. [Participant name]
 4. [Participant name]
 5. [Participant name]
-6. [Participant name]
 
 ## Attendees & Roles
 
@@ -52,7 +51,7 @@
 
 ## Pre-Task Questions
 
-*Short rapport-building questions to learn the participant's role and context before tasks begin. Probes are listed for reference—skip any the participant has already covered.*
+*Short rapport-building questions to learn the participant's role and context before tasks begin. Nest probes as sub-bullets where useful.*
 
 1. [Question]
 2. [Question]
@@ -71,7 +70,7 @@
 
 ## Post-Task Questions
 
-*Post-task questions to capture attitudes, frustrations, and overall impressions that observation alone can't surface. Probes are listed for reference—skip any the participant has already covered.*
+*Post-task questions to capture attitudes, frustrations, and overall impressions that observation alone can't surface. Nest probes as sub-bullets where useful.*
 
 1. [Question]
 2. [Question]

@@ -21,7 +21,6 @@
 3. [Participant name]
 4. [Participant name]
 5. [Participant name]
-6. [Participant name]
 
 ## Attendees & Roles
 
