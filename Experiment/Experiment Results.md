@@ -17,7 +17,8 @@
 | ------- | ------------ | ---------------- | ------------------- | ------- |
 |         |              |                  |                     |         |
 
-> [!IMPORTANT] Key Takeaways
+> [!IMPORTANT]
+> **Key Takeaways**
 > - [Takeaway]
 > - [Takeaway]
 

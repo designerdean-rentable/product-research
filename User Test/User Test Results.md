@@ -20,7 +20,8 @@
 | ---- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |      |               |               |               |               |               |               |
 
-> [!IMPORTANT] Key Takeaways
+> [!IMPORTANT]
+> **Key Takeaways**
 > - [Takeaway]
 > - [Takeaway]
 
@@ -52,7 +53,8 @@
 	- [Observation]
 	- [Observation]
 
-> [!IMPORTANT] Key Takeaways
+> [!IMPORTANT]
+> **Key Takeaways**
 > - [Takeaway]
 > - [Takeaway]
 
