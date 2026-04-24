@@ -8,7 +8,6 @@
 | **Role**          |               |               |               |               |               |               |
 | **Persona**       |               |               |               |               |               |               |
 | **Segment**       |               |               |               |               |               |               |
-| **Recruit Again** |               |               |               |               |               |               |
 
 
 ---

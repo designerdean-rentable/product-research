@@ -7,7 +7,6 @@
 | **Name**          |               |               |               |               |               |               |
 | **Persona**       |               |               |               |               |               |               |
 | **Segment**       |               |               |               |               |               |               |
-| **Recruit Again** |               |               |               |               |               |               |
 
 
 ---
