@@ -74,5 +74,5 @@
 
 | Recommendation | Priority | Rationale |
 | -------------- | -------- | --------- |
-|                |          |           |
-|                |          |           |
+| [Recommendation] |          |           |
+| [Recommendation] |          |           |
