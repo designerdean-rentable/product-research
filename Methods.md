@@ -133,3 +133,14 @@ Both observe behavior, but differ in method and scale.
 ## Common Mistake
 
 Treating the four lenses as sequential phases instead of concurrent lenses. Strong teams apply all four continuously—choosing which to emphasize based on the biggest uncertainty right now. Teams that skip Discovery succeed at barely better than chance. Teams that run experiments without first understanding the problem optimize the wrong thing.
+
+
+---
+
+## Research Template Conventions
+
+Research templates and results docs follow vault-wide conventions in CLAUDE.md with these specific exceptions for cross-surface compatibility with the GitHub mirror at `designerdean-rentable/aiq-research-mirror`:
+
+- **H3 (`###`) is allowed** within H2 sections, unlike the rest of the vault (which skips H3 in favor of H4). H3 renders cleanly on the GitHub mirror.
+- **Placeholders use bracketed text** (e.g., `[Observation]`, `[Takeaway]`) for team-facing clarity, rather than the empty-bullet placeholders used elsewhere in the vault.
+- **Callouts are authored Obsidian-style**: marker and custom title on the same line (`> [!note] Title`). The mirror workflow at `.github/workflows/mirror-aiq-research.yml` reformats these to GitHub's alert syntax on sync (marker on its own line, custom title bolded on the next).
