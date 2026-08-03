@@ -4,6 +4,8 @@ A decision tool for choosing which research approach to emphasize at any given m
 
 This framework is not necessarily aligned with other major product and product research experts in the industry (Teresa Torres, Marty Cagan/SVPG, Tim Herbig, Eric Ries, etc.). Standardizing on one coherent body of work keeps gate criteria, lens taxonomy, sample-size guidance, and interview craft built on shared assumptions—mixing frameworks tends to break that consistency at the seams, and a single methodology produces faster, more legible plans across the team.
 
+Nielsen Norman Group is that body of work. Before proposing a methodology change—interview structure, usability protocol, sample size, a new template section—check NN/g's current guidance and cite the specific article rather than improvising from intuition or general practice.
+
 
 ---
 
@@ -133,6 +135,23 @@ Both observe behavior, but differ in method and scale.
 ## Common Mistake
 
 Treating the four lenses as sequential phases instead of concurrent lenses. Strong teams apply all four continuously—choosing which to emphasize based on the biggest uncertainty right now. Teams that skip Discovery succeed at barely better than chance. Teams that run experiments without first understanding the problem optimize the wrong thing.
+
+
+---
+
+## Vocabulary
+
+NN/g terms the templates depend on:
+
+- **Interview guide**: A semistructured, flexible instrument. This is what the templates produce.
+- **Interview script**: A structured, rigid instrument. Not what we write—the distinction matters when someone asks for a "script."
+- **Research questions**: Study-level objectives. Distinct from interview questions, which are the elicitation prompts that answer them.
+- **Funnel technique**: Ordering questions broad to specific.
+- **Probes and follow-ups**: Sub-questions for drilling into an answer.
+
+NN/g does not use named phase sections—no Warmup, Main Questions, Reflection, or Closing headings. The interview guide is a flat numbered list where structure is encoded by position. The Discovery, Feedback, and User Test templates follow this: a single `## Questions` section, flat numbered list, probes as sub-bullets.
+
+Reference articles: [Writing an Effective Guide for a UX Interview](https://www.nngroup.com/articles/interview-guide/), [User Interviews 101](https://www.nngroup.com/articles/user-interviews/), and the [Example Guide for a Semistructured Interview](https://media.nngroup.com/media/articles/attachments/example_interview_guide.pdf) (PDF).
 
 
 ---
