@@ -163,3 +163,8 @@ Research templates and results docs follow vault-wide conventions in AGENTS.md w
 - **H3 (`###`) is allowed** within H2 sections, unlike the rest of the vault (which skips H3 in favor of H4). H3 renders cleanly on the GitHub mirror.
 - **Placeholders use bracketed text** (e.g., `[Observation]`, `[Takeaway]`) for team-facing clarity, rather than the empty-bullet placeholders used elsewhere in the vault.
 - **Callouts are authored Obsidian-style**: marker and custom title on the same line (`> [!note] Title`). The mirror workflow at `.github/workflows/mirror-aiq-research.yml` reformats these to GitHub's alert syntax on sync (marker on its own line, custom title bolded on the next).
+
+Two further conventions, both about keeping concerns on the right surface:
+
+- **Research questions stay persona-agnostic.** Questions express what you are trying to learn; the participant list says who you are learning it from. Naming personas inside questions creates false contrast—it reads as though some questions are persona-differentiated when all are cross-persona. Group participants under persona subheads instead, and coverage becomes self-documenting.
+- **Per-session scaffolding holds only recurring work.** Pre-Interview Tasks, Pre-Test Tasks, and Introduction bullets are prep that happens before *every* session. One-time study setup—piloting the guide, defining the outreach list, drafting the script, getting CS or sales intros—belongs at the study-plan level. Before adding an item, ask whether it happens every session or once per study.
