@@ -158,7 +158,7 @@ Reference articles: [Writing an Effective Guide for a UX Interview](https://www.
 
 ## Research Template Conventions
 
-Research templates and results docs follow vault-wide conventions in CLAUDE.md with these specific exceptions for cross-surface compatibility with the GitHub mirror at `designerdean-rentable/aiq-research-mirror`:
+Research templates and results docs follow vault-wide conventions in AGENTS.md with these specific exceptions for cross-surface compatibility with the GitHub mirror at `designerdean-rentable/aiq-research-mirror`:
 
 - **H3 (`###`) is allowed** within H2 sections, unlike the rest of the vault (which skips H3 in favor of H4). H3 renders cleanly on the GitHub mirror.
 - **Placeholders use bracketed text** (e.g., `[Observation]`, `[Takeaway]`) for team-facing clarity, rather than the empty-bullet placeholders used elsewhere in the vault.
